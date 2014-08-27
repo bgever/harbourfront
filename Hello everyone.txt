@@ -1,3 +1,5 @@
 Hello everyone!
 
 Second line
+
+Hey, this is from Windows!
